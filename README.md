@@ -1,26 +1,20 @@
 ### Hello World! 👋
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Sou estudante do curso de Sistemas de Informação do Centro Universitário de Patos de Minas - UNIPAM.
-</p>
+**Sou estudante de Sistemas de Informação, muito apaixonado por tecnologia, desenvolvimento de programas, aplicativos, sistemas, UX & UI e Design de interface.**
 
-<p align="left">
-  🦄 Skills: <strong>HTML, CSS, JavaScript, PHP, MySQL, C, Python, React-Native, Node.js</strong>
-</p>
+Atualmente estou focado em **Front end Developer** e estou construindo produtos significativos de alto desempenho e de ótima qualidade. Eu realmente gosto de estudar e desenvolver projetos pessoais.
 
-<p align="left">
-  💼 Ferramentas: <strong>Git, GitHub, Trello, VS Code, Figma, Mockups, Sublime Text</strong>
-</p>
+   🌎 **But keep going, anyway** 🧠
 
-<p align="left">
-  💌 Contato: ⤵️
-</p>
 
-<p align="left">
-  <p align="left">
-  <a href="mailto:pedro13arthur@gmail.com" alt="email">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/#inbox" /></a><br>
-    <a href="https://www.linkedin.com/in/pedro-arthur-74b0b91a2" alt="email">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-74b0b91a2/" /><br>
-</p> <br>
+- ⚡ JavaScript Developer
+- 📫 Como **[entrar](mailto:pedro13arthur@gmail.com)** em contato comigo **[pedro13arthur@gmail.com](mailto:pedro13arthur@gmail.com)**
+
+
+ Onde me encontrar  👇
+ 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-74b0b91a2/) ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroh.arthur/)
+
+**🚀💻 Technologies & Tools**
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white`)
