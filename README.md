@@ -1,15 +1,15 @@
 ### Hello World! 👋
 
-**Sou estudante de Sistemas de Informação, muito apaixonado por tecnologia, desenvolvimento de programas, aplicativos, sistemas, UX & UI e Design de interface.**
+**I am a student of Information Systems, very passionate about technology, development of programs, applications, systems, UX & UI and Interface Design.**
 
-Atualmente estou focado em **Front-End Development** e estou construindo produtos significativos de alto desempenho e de ótima qualidade. Eu realmente gosto de estudar e desenvolver projetos pessoais.
+I'm currently focused on **Front-End Development** and I'm building significant high-performance, great-quality products. I really enjoy studying and developing personal projects.
 
 🌎 **But keep going, anyway** 🧠
 
 - ⚡ JavaScript Developer
-- 📫 Como **[entrar](mailto:pedro13arthur@gmail.com)** em contato comigo **[pedro13arthur@gmail.com](mailto:pedro13arthur@gmail.com)**
+- 📫 How to **[enter](mailto:pedro13arthur@gmail.com)** contact me **[pedro13arthur@gmail.com](mailto:pedro13arthur@gmail.com)**
 
-Onde me encontrar  👇
+Where to find me  👇
  
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-74b0b91a2/)
 
