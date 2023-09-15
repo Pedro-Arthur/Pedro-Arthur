@@ -11,7 +11,7 @@ I'm currently focused on **Full-Stack Development** and I'm building significant
 
 Where to find me  👇
  
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-74b0b91a2/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-arthur-simeão/)
 
 **🚀💻 Technologies & Tools**
 
