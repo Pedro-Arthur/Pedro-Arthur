@@ -1,13 +1,12 @@
 ### Hello World! 👋
 
-**I am a student of Information Systems, very passionate about technology, development of programs, applications, systems, UX & UI and Interface Design.**
+**I am a graduate in Information Systems, passionate about technology, program development, applications, systems, UX & UI, and Interface Design.**
 
 I'm currently focused on **Full-Stack Development** and I'm building significant high-performance, great-quality products. I really enjoy studying and developing personal projects.
 
 🌎 **But keep going, anyway** 🧠
 
 - ⚡ JavaScript Developer
-- 📫 How to **[enter](mailto:pedro13arthur@gmail.com)** contact me **[pedro13arthur@gmail.com](mailto:pedro13arthur@gmail.com)**
 
 Where to find me  👇
  
