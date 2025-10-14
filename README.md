@@ -1,4 +1,4 @@
-## Hi, I'm Pedro Arthur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+## Hi, I'm Pedro Arthur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" />
 
 I'm a **Full Stack Developer** passionate about building reliable, high-performance applications and exploring new technologies through personal projects.
 
