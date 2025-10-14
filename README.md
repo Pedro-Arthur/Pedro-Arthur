@@ -101,11 +101,13 @@ I'm a **Full Stack Developer** passionate about building reliable, high-performa
 <img
     alt="Stats"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur&show_icons=true&include_all_commits=true&custom_title=Stats&theme=radical"
+    height="200px"
+    src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur&show_icons=true&include_all_commits=true&theme=radical&custom_title=Stats"
 />
 
 <img
     alt="Technologies"
     align="left"
+    height="200px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur&layout=compact&custom_title=Technologies&theme=radical"
 />
