@@ -2,9 +2,11 @@
 
 I'm a **Full Stack Developer** passionate about building reliable, high-performance applications and exploring new technologies through personal projects.
 
-Where to find me 👇
+---
 
-<a href="https://www.linkedin.com/in/pedro-arthur-simeão" target="_blank" rel="noopener noreferrer">
+**🤝 Connect with me**
+
+<a href="https://www.linkedin.com/in/pedro-arthur-simeão">
     <img
         title="LinkedIn"
         alt="LinkedIn"
@@ -13,8 +15,7 @@ Where to find me 👇
     />
 </a>
 
-<br />
-<br />
+---
 
 **🚀💻 Technologies & Tools**
 
@@ -24,7 +25,6 @@ Where to find me 👇
     alt="JavaScript"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     width="30px"
-    style="padding-right: 10px;"
 />
 
 <img
@@ -33,16 +33,14 @@ Where to find me 👇
     alt="TypeScript"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <img
     align="left"
     title="Node"
     alt="Node"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <img
@@ -51,7 +49,6 @@ Where to find me 👇
     alt="Angular"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <img
@@ -60,7 +57,6 @@ Where to find me 👇
     alt="Vue"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <img
@@ -69,7 +65,6 @@ Where to find me 👇
     alt="React"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <img
@@ -78,16 +73,14 @@ Where to find me 👇
     alt="React Native"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <img
     align="left"
     title="PostgreSQL"
     alt="PostgreSQL"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <img
@@ -96,26 +89,23 @@ Where to find me 👇
     alt="Docker"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
     width="30px"
-    style="padding-right: 10px"
 />
 
 <br />
 <br />
-<br />
+
+---
 
 **📊 Stats**
 
 <img
     alt="Stats"
     align="left"
-    height="200px"
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur&show_icons=true&include_all_commits=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Pedro-Arthur&show_icons=true&include_all_commits=true&custom_title=Stats&theme=radical"
 />
 
 <img
-    alt="Langs"
+    alt="Technologies"
     align="left"
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arthur&layout=compact&custom_title=Technologies&theme=radical"
 />
