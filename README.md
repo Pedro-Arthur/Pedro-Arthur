@@ -6,7 +6,7 @@ I'm a **Full Stack Developer** passionate about building reliable, high-performa
 
 **🤝 Connect with me**
 
-<a href="https://www.linkedin.com/in/pedro-arthur-simeão">
+<a href="https://www.linkedin.com/in/pedroarthursimeao">
     <img
         title="LinkedIn"
         alt="LinkedIn"
